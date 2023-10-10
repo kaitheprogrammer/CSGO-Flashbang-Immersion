@@ -1,5 +1,5 @@
 # CSGO-Flashbang-Immersion
-Makes getting blinded in game just a bit more immersive
+Makes getting blinded in games just a bit more immersive
 
 # What you need
 - Arduino Uno (__or compatible board__)
